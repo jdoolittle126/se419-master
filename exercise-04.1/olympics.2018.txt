@@ -1,0 +1,10 @@
+Tonga	1	96165
+Bahamas	1	281584
+Jamaica	6	2589043
+Cuba	25	10952046
+Australia	41	18348078
+Hungary	21	10273590
+Bulgaria	15	8181047
+Trinidad & Tobago	2	1196910
+New Zealand	6	3621200
+Norway	7	381275
